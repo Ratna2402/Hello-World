@@ -1,6 +1,6 @@
 feature : Login
 
-Scenario outline: Login verfication
+Scenario Outline: Login verfication
 
 Given I enter <user_name>
 And I enter <pwd>
